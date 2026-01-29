@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "96e20052-66fc-4beb-88f6-3b3e32a9fd90",
+		"name": "Challenge Varegos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13189957",
+		"_collection_link": "https://grey-trinity-313178.postman.co/workspace/e96422b0-9b67-49cc-82c2-acf936b2926b/collection/13189957-96e20052-66fc-4beb-88f6-3b3e32a9fd90?action=share&source=collection_link&creator=13189957"
+	},
+	"item": [
+		{
+			"name": "CBU-bancarios",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "customer-document-type",
+						"value": "01",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"getAgendaCBU\": {\n        \"usuario\": {\n            \"nroDocumento\": \"39327180\",\n            \"password\": \"123456\",\n            \"tipoDocumento\": \"DNI\"\n        }\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/v1/transfers/customers-document/32345379/recipients?customer-document-type=01",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"v1",
+						"transfers",
+						"customers-document",
+						"32345379",
+						"recipients"
+					],
+					"query": [
+						{
+							"key": "customer-document-type",
+							"value": "01"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
